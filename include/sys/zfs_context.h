@@ -105,7 +105,6 @@ extern "C" {
 #include <sys/mman.h>
 #include <sys/types.h>
 #include <sys/cred.h>
-#include <sys/sysmacros.h>
 #include <sys/resource.h>
 #include <sys/byteorder.h>
 #include <sys/list.h>
